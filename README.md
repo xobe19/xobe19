@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xobe19
+- 👋 Hi, I’m Hitesh
 - 👀 I’m interested in Web and Android Dev
 - 🌱 I’m currently learning React.js & Flutter
 - 📫 Reach me at lwni@protonmail.com
